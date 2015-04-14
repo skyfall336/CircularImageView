@@ -3,15 +3,15 @@
 
 原始图片
 
-![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/1.png)
+        ![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/1.png)
 
 设置控件大小和图片资源
 
-![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/2.png)
+        ![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/2.png)
 
 原始图片
 
-![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/3.png)
+        ![](https://github.com/skyfall336/CircularImageView/raw/master/res/pic/3.png)
 
 设置控件大小，图片资源和圆心
 
