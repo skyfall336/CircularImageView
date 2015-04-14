@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="CircularImage">
+        <attr name="CircularImageSrc"  format="reference"/>
+        <attr name="BorderWidth"       format="dimension"/>
+        <attr name="InBorderWidth"     format="dimension"/>
+        <attr name="BetweenWidth"      format="dimension"/>
+        <attr name="OutBorderWidth"    format="dimension"/>
+        <attr name="BorderColor"       format="color"/>
+        <attr name="InBorderColor"     format="color"/>
+        <attr name="BetweenColor"      format="color|reference"/>
+        <attr name="OutBorderColor"    format="color"/>
+        <attr name="CenterScaleX"      format="float"/>
+        <attr name="CenterScaleY"      format="float"/>
+        <attr name="CenterRadius"      format="float"/>
+    </declare-styleable>
+</resources>
